@@ -1,0 +1,17 @@
+{
+    "name": "design-system-marco-maz",
+    "version": "1.0.0",
+    "description": "CSS Variables for Figma Test",
+    "main": "build/_variables.css",
+    "files": [
+      "build/_variables.css"
+    ],
+    "keywords": [
+      "css",
+      "variables",
+      "figma"
+    ],
+    "author": "Marco Mazzai",
+    "license": "MIT"
+  }
+  
